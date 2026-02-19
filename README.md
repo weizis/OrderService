@@ -1,13 +1,12 @@
-```
 # 🛍️ Order Service API
-
+```
 [![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-
-Backend-сервис для управления заказами. Проект демонстрирует чистую архитектуру и современные практики backend-разработки на .NET 9 с использованием PostgreSQL.
 ```
+Backend-сервис для управления заказами. Проект демонстрирует чистую архитектуру и современные практики backend-разработки на .NET 9 с использованием PostgreSQL.
+
 ---
 
 ## ✨ Возможности
